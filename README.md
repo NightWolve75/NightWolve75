@@ -16,5 +16,7 @@ This was my dream project and hard to believe it became a reality! In terms of s
 ![ys4pce29](https://github.com/user-attachments/assets/90c319f8-81c7-4bc6-8051-c1addcbf71bf)<br/>
 ![ys4pce06](https://github.com/user-attachments/assets/f3535010-4e88-4c7c-b39a-ca46d993f401)
 ![ys4pce04](https://github.com/user-attachments/assets/b4a8b28f-3797-4474-aff4-eec3ce19879b)<br/>
+![ys4pce01](https://github.com/user-attachments/assets/2afb8049-c500-41d8-a027-de3b6e41b81e)
+![ys4pce72](https://github.com/user-attachments/assets/de8b6b80-4f23-4d73-b28f-40d2dfb52451)<br/>
 
 3) Ys I & II Complete [Windows 95/98/ME/2K/XP/V/7] 2002-2005
