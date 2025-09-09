@@ -21,15 +21,15 @@ This was my dream project and hard to believe it became a reality! In terms of s
 
 3) Ys I & II Complete (2001)[Windows 95/98/ME/2K/XP/V/7] 2002-2005
 
-EDIT
+WIP EDIT
 
 4) Ys VI: The Ark of Napishtim (2003)[Windows 98/ME/2K/XP/V/7/8/10/11] 2004
 
-EDIT
+WIP EDIT
 
 5) Ys [III]: The Oath in Felghana (2005)[Windows 98/ME/2K/XP/V/7/8/10/11] 2005-2007
 
-EDIT
+WIP EDIT
 
 6) Hydlide (1999)[Windows 95/98/ME/2K/XP/V/7] 2004
 
