@@ -1,6 +1,6 @@
 - 👋 Howdy! As stated in my profile I'm a developer, localizer, techy, gamer, specifically a Y-YYUGE PC Engine/TurboGrafx-16 and Falcom/Ys fan known for various fan localization projects/apps/tools which is likely how you know me! I opened this Github because a lot of my source code needs to eventually go public/open-source in case something happens to me and because I've accepted the loss of motivation/interest to finish many of the projects I started, so time to share my work/experiments/tinkering. I am primarily interested in uploading my source code for TurboRip, a CD-ripping app for PC Engine/TurboGrafx-16 CD-ROM games, so stay tuned for that when I eventually get around to it. I'll follow it up by sharing material for past Ys localization projects and general-purpose Win32 tools. Feel free to nudge me if I forget, keep on procrastinating.
 
-<div align="center"><h1>Localization Portfolio.</h1></div>
+<div align="center"><h1>- Localization Portfolio -</h1></div>
 
 1) "Xak III: The Eternal Recurrence" (1994)[PC Engine CD] 2001-2004
 
@@ -38,4 +38,11 @@ Patch: https://www.romhacking.net/translations/845/
 
 <img width="49%" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
 <img width="49%" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/>
+
+*) Erst Kerf (2008)[Windows 2K/XP/V/7/10/11] 2025
+
+Similar to Hydlide the localizers here asked me for help on a final issue after the project was mostly finshed to extend some strings. I found memory allocation bugs in the process which I also fixed and added a few minor tweaks like window-centering. Great experience to work with both of them, and they helped me with my Langrisser III localization project in kind on wave/audio recovery!
+
+<img width="49%" src="https://github.com/user-attachments/assets/9567ae93-3dd8-45d8-b636-aad96af0dcd7" />
+<img width="49%" src="https://github.com/user-attachments/assets/9acb319c-6e03-439a-8657-fccd552c5a3f" /><br/>
 
