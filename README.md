@@ -4,7 +4,7 @@
 
 1) "Xak III: The Eternal Recurrence" (1994)[PC Engine CD] 2001-2004
 
-Localizers have to start somewhere! For me it was Xak III because it was the easiest candidate for the PC Engine CD platform: ANSI/8x16 font support was ready, the script wasn't compressed, and the text blocks were large enough such that by adjusting their 16-bit pointers you could fit full English translations! I wanted Ys IV or Legend of Xanadu but didn't have enough experience for compression cases, so that's how Xak III and I found ourselves a match! ; )
+Localizers have to start somewhere! For me it was Xak III because it was the easiest candidate for the PC Engine CD platform: ANSI/8x16 font support was ready, the script wasn't compressed, and the text blocks were large enough such that by adjusting their 16-bit pointers you could fit full English translations! I wanted Falcom's Ys IV or Legend of Xanadu but didn't have enough experience for compression cases, so that's how Xak III and I found ourselves a match! ; )
 
 <img width="49%" src="https://github.com/user-attachments/assets/cdfaba98-57e2-4930-aa2c-c3365551cb59" /> <img width="49%" src="https://github.com/user-attachments/assets/47d6e179-90a6-443d-a30a-f535fd79c440" /><br/>
 
