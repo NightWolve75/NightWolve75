@@ -5,7 +5,8 @@
 
 1) "Xak III: The Eternal Recurrence" (1994)[PC Engine CD] 2001-2004
 
-Localizers have to start somewhere! For me it was Xak III because it was the easiest candidate for the PC Engine CD platform: ANSI/8x16 font support was ready, the script wasn't compressed, and the text blocks were large enough such that by adjusting their 16-bit pointers you could fit full English translations! I wanted Ys IV or Legend of Xanadu but didn't have enough experience for compression cases, so that's how Xak III and I found ourselves a match! ; )<br/>
+Localizers have to start somewhere! For me it was Xak III because it was the easiest candidate for the PC Engine CD platform: ANSI/8x16 font support was ready, the script wasn't compressed, and the text blocks were large enough such that by adjusting their 16-bit pointers you could fit full English translations! I wanted Ys IV or Legend of Xanadu but didn't have enough experience for compression cases, so that's how Xak III and I found ourselves a match! ; )
+
 <img width="49%" src="https://github.com/user-attachments/assets/cdfaba98-57e2-4930-aa2c-c3365551cb59" /> <img width="49%" src="https://github.com/user-attachments/assets/47d6e179-90a6-443d-a30a-f535fd79c440" /><br/>
 
 2) "Ys IV: The Dawn of Ys" (1993)[PC Engine CD] 2002-2004/2012
@@ -34,7 +35,8 @@ EDIT
 6) Hydlide (1999)[Windows 95/98/ME/2K/XP/V/7] 2004
 
 I basically just cracked this game upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is so everyone can install/play it! I remember I rented the NES port and liked it, but I never gave this PC one a try. It was a favor for a fellow localizer.<br/>
-Patch: https://www.romhacking.net/translations/845/<br/>
+Patch: https://www.romhacking.net/translations/845/
+
 <img width="49%" alt="Hydlide2" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
 <img width="49%" alt="Hydlide1" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/>
 
