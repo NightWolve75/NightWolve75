@@ -32,7 +32,7 @@ EDIT
 
 6) Hydlide (1999)[Windows 95/98/ME/2K/XP/V/7] 2004
 
-I basically just cracked this game upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is so everyone can install/play it! I remember I rented the NES port and liked it, but I never gave this PC one a try. It was a favor for another localizer.<br/>
+I basically just cracked this game upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is so everyone can install/play it! I remember I rented the NES port and liked it, but I never gave this PC one a try. It was a favor for a fellow localizer.<br/>
 Patch: https://www.romhacking.net/translations/845/<br/>
 <img width="49%" alt="Hydlide2" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
 <img width="49%" alt="Hydlide1" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/>
