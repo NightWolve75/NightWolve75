@@ -33,7 +33,7 @@ WIP EDIT.
 
 6) Hydlide (1999)[Windows 95/98/ME/2K/XP/V/7] 2004
 
-I basically just cracked this game upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is so everyone can install/play it! I remember I rented the NES port and liked it, but I never gave this PC one a try. It was merely a favor for a fellow localizer/collaborator.<br/>
+I basically just cracked this game upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is so everyone can install/play it! I remember I rented the NES port as a kid and liked it, but I never gave this PC one a try. It was merely a favor for a fellow localizer/collaborator.<br/>
 Patch: https://www.romhacking.net/translations/845/
 
 <img width="49%" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
@@ -45,5 +45,5 @@ Similar to Hydlide the localizers here asked me for help on a final issue after 
 Patch: https://github.com/Etokapa/Erst-Kerf-English-Translation-Patch
 
 <img width="49%" src="https://github.com/user-attachments/assets/9567ae93-3dd8-45d8-b636-aad96af0dcd7" />
-<img width="49%" src="https://github.com/user-attachments/assets/9acb319c-6e03-439a-8657-fccd552c5a3f" /><br/>
+<img width="49%" src="https://github.com/user-attachments/assets/9acb319c-6e03-439a-8657-fccd552c5a3f" /><br/><br/>
 
