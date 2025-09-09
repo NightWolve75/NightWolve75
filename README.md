@@ -5,10 +5,9 @@
 
 1) "Xak III: The Eternal Recurrence" [PC Engine CD] 2001-2004
 
-![CD_A61EC646-014](https://github.com/user-attachments/assets/cdfaba98-57e2-4930-aa2c-c3365551cb59)
-![CD_A61EC646-013](https://github.com/user-attachments/assets/47d6e179-90a6-443d-a30a-f535fd79c440)<br/>
+<img width="49%" alt="Hydlide2" src="https://github.com/user-attachments/assets/cdfaba98-57e2-4930-aa2c-c3365551cb59" /> <img width="49%" alt="Hydlide2" src="https://github.com/user-attachments/assets/47d6e179-90a6-443d-a30a-f535fd79c440" /><br/>
 
-2) "Ys IV: The Dawn of Ys" [PC Engine CD] 2002-2004/2012
+2) "Ys IV: The Dawn of Ys" (1993)[PC Engine CD] 2002-2004/2012
 
 This was my dream project and hard to believe it became a reality! In terms of shear number of fellow localizers [team members], it's THE biggest project I ever led/worked on counting programmers, translators, testers, and even fan voice-actors! Hard to believe it all started by winning a TurboGrafx-16 and then buying a $99 Turbo Duo that included the legendary Ys Book I & II!
 
@@ -19,11 +18,18 @@ This was my dream project and hard to believe it became a reality! In terms of s
 ![ys4pce01](https://github.com/user-attachments/assets/2afb8049-c500-41d8-a027-de3b6e41b81e)
 ![ys4pce72](https://github.com/user-attachments/assets/de8b6b80-4f23-4d73-b28f-40d2dfb52451)<br/>
 
-3) Ys I & II Complete [Windows 95/98/ME/2K/XP/V/7] 2002-2005
+3) Ys I & II Complete (2001)[Windows 95/98/ME/2K/XP/V/7] 2002-2005
+EDIT
 
-4) Hydlide [Windows 95/98/ME/2K/XP/V/7] 2004
+5) Ys VI: The Ark of Napishtim (2003)[Windows 98/ME/2K/XP/V/7/8/10/11] 2004
+EDIT
 
-I basically just cracked this upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is. I remember I rented the NES port and liked it, but I never gave this PC one a try. It was a favor for another localizer.<br/>
+6) Ys: The Oath in Felghana (2005)[Windows 98/ME/2K/XP/V/7/8/10/11] 2005-2007
+EDIT
+
+7) Hydlide (1999)[Windows 95/98/ME/2K/XP/V/7] 2004
+
+I basically just cracked this game upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is. I remember I rented the NES port and liked it, but I never gave this PC one a try. It was a favor for another localizer.<br/>
 Patch: https://www.romhacking.net/translations/845/<br/>
 <img width="49%" alt="Hydlide2" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
 <img width="49%" alt="Hydlide1" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/>
