@@ -41,7 +41,7 @@ Patch: https://www.romhacking.net/translations/845/
 
 7) Erst Kerf (2008)[Windows 2K/XP/V/7/10/11] 2025
 
-Similar to Hydlide the localizers here asked me for help on a final issue after the project was mostly finshed to extend some strings. I found memory allocation bugs in the process which I also fixed and added a few minor tweaks like window-centering. Great experience to work with both of them, and they helped me with my Langrisser III localization project in kind on wave/audio recovery!
+Similar to Hydlide the localizers here asked me for help on a final issue after the project was mostly finshed to extend some strings. I found memory allocation bugs in the process which I also fixed and added a few minor tweaks like window-centering. Great experience to work with both of them, and they helped me with my Langrisser III localization project in kind on wave/audio recovery!<br/>
 Patch: https://github.com/Etokapa/Erst-Kerf-English-Translation-Patch
 
 <img width="49%" src="https://github.com/user-attachments/assets/9567ae93-3dd8-45d8-b636-aad96af0dcd7" />
