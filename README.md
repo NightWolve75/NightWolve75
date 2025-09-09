@@ -20,3 +20,9 @@ This was my dream project and hard to believe it became a reality! In terms of s
 ![ys4pce72](https://github.com/user-attachments/assets/de8b6b80-4f23-4d73-b28f-40d2dfb52451)<br/>
 
 3) Ys I & II Complete [Windows 95/98/ME/2K/XP/V/7] 2002-2005
+
+4) Hydlide [Windows 95/98/ME/2K/XP/V/7] 2004
+I basically just cracked this upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is. I remember I rented the NES port and liked it, but I never gave this PC one a try. It was a favor for another localizer.
+<img width="49%" alt="Hydlide2" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
+<img width="49%" alt="Hydlide1" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/>
+
