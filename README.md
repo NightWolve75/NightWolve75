@@ -19,15 +19,18 @@ This was my dream project and hard to believe it became a reality! In terms of s
 ![ys4pce72](https://github.com/user-attachments/assets/de8b6b80-4f23-4d73-b28f-40d2dfb52451)<br/>
 
 3) Ys I & II Complete (2001)[Windows 95/98/ME/2K/XP/V/7] 2002-2005
+
 EDIT
 
-5) Ys VI: The Ark of Napishtim (2003)[Windows 98/ME/2K/XP/V/7/8/10/11] 2004
+4) Ys VI: The Ark of Napishtim (2003)[Windows 98/ME/2K/XP/V/7/8/10/11] 2004
+
 EDIT
 
-6) Ys: The Oath in Felghana (2005)[Windows 98/ME/2K/XP/V/7/8/10/11] 2005-2007
+5) Ys [III]: The Oath in Felghana (2005)[Windows 98/ME/2K/XP/V/7/8/10/11] 2005-2007
+
 EDIT
 
-7) Hydlide (1999)[Windows 95/98/ME/2K/XP/V/7] 2004
+6) Hydlide (1999)[Windows 95/98/ME/2K/XP/V/7] 2004
 
 I basically just cracked this game upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is. I remember I rented the NES port and liked it, but I never gave this PC one a try. It was a favor for another localizer.<br/>
 Patch: https://www.romhacking.net/translations/845/<br/>
