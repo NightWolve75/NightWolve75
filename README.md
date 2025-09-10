@@ -31,6 +31,10 @@ WIP EDIT.
 
 WIP EDIT.
 
+5) Ys Origin (2006)[Windows 98/ME/2K/XP/V/7/8/10/11] 2007
+
+WIP EDIT.
+
 6) Hydlide (1999)[Windows 95/98/ME/2K/XP/V/7] 2004
 
 I basically just cracked this game upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is so everyone can install/play it! I remember I rented the NES port as a kid and liked it, but I never gave this PC one a try. It was merely a favor for a fellow localizer/collaborator.<br/>
