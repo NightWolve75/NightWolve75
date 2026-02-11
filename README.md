@@ -44,7 +44,7 @@ I basically just cracked this game upon request by the translator, debugged it t
 Patch: https://www.romhacking.net/translations/845/
 <br/><br/>
 7) Dead of the Brain (1993)[PC Engine CD] 2023 <img src="https://github.com/user-attachments/assets/b7ae5c7a-6735-47a4-b83d-ef07cf03c9d2" width="23" height="23" /><br/>
-
+<br/>
 No, NOT a trick, a Halloween treat! Presenting the
 <a href="https://romhacking.net/translations/7087/">Dead of the Brain 1 English patch</a> by David
 Shadoff for the DEAD last official PC Engine CD game published by NEC before exiting the console biz
