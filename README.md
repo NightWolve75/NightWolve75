@@ -46,9 +46,8 @@ Patch: https://www.romhacking.net/translations/845/
 7) Dead of the Brain (1999)[PC Engine CD] 2023 <img src="https://github.com/user-attachments/assets/b7ae5c7a-6735-47a4-b83d-ef07cf03c9d2" width="23" height="23" /><br/>
 <br/>
 No, NOT a trick, a Halloween treat! Presenting the
-<a href="https://romhacking.net/translations/7087/">Dead of the Brain 1 English patch</a> by David
-Shadoff for the DEAD last official PC Engine CD game published by NEC before exiting the console biz
-in 1999! I helped edit/betatest after Dave told me it was nearly ready, so I applied my global spell check method after packing the script strings in one file and it also counts as a game I actually finished in 2023, yaaaay!
+<a href="https://romhacking.net/translations/7087/">Dead of the Brain English patch</a> by @dshadoff for the DEAD last official PC Engine CD game published by NEC before exiting the console biz
+in 1999! I helped edit/betatest after Dave told me it was nearly ready, so I applied my global spell check method after packing the script strings into one file (a trick I learned since Ys VI) and it also counts as a game I actually finished in 2023, yaaaay!
 <a href="https://twitter.com/shubibiman/status/1719240138469810596">Shubibiman</a> also did
 <a href="https://www.romhacking.net/translations/7089/">a French localization</a> for its fans.
 <img src="https://github.com/user-attachments/assets/b7ae5c7a-6735-47a4-b83d-ef07cf03c9d2" width="23" height="23" /><img src="https://github.com/user-attachments/assets/9c49ba0e-8206-461b-ba1a-5c0f367d2daf" width="23" height="23" /><br/>
