@@ -41,8 +41,7 @@ I basically just cracked this game upon request by the translator, debugged it t
 
 <img width="49%" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
 <img width="49%" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/>
-Patch: https://www.romhacking.net/translations/845/
-
+Patch: https://www.romhacking.net/translations/845/<br/>
 
 7) Dead of the Brain (1993)[PC Engine CD] 2023 <img src="https://emoji.tapatalk-cdn.com/emoji316.png" />
 
