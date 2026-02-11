@@ -53,7 +53,8 @@ in 1999! I helped edit/betatest after Dave told me it was nearly ready, so I app
 <a href="https://www.romhacking.net/translations/7089/">a French localization</a> for its fans.
 <img src="https://github.com/user-attachments/assets/b7ae5c7a-6735-47a4-b83d-ef07cf03c9d2" width="23" height="23" /><img src="https://github.com/user-attachments/assets/9c49ba0e-8206-461b-ba1a-5c0f367d2daf" width="23" height="23" /><br/>
 <br/>
-<img width="49%" src="https://github.com/user-attachments/assets/bfcda46c-4fb4-44e4-b0df-31043f6ff475" /><img width="49%" src="https://github.com/user-attachments/assets/caddb3bd-83d6-407b-bf85-231cf1703146" /><br/>
+<img width="49%" src="https://github.com/user-attachments/assets/bfcda46c-4fb4-44e4-b0df-31043f6ff475" />
+<img width="49%" src="https://github.com/user-attachments/assets/caddb3bd-83d6-407b-bf85-231cf1703146" /><br/>
 Patch: <a href="https://github.com/dshadoff/PCE_xlate_DeadoftheBrain">github.com/dshadoff/DeadoftheBrain</a><br/>
 <a href="https://romhacking.net/translations/7087/">romhacking.net/translations/7087/</a><br/>
 <a href="https://x/NightWolve75/status/1719407856221311240">x.com/NightWolve/PCENews</a><br/>
