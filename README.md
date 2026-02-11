@@ -51,7 +51,7 @@ Shadoff for the DEAD last official PC Engine CD game published by NEC before exi
 in 1999! I helped edit/betatest after Dave told me it was nearly ready, so I applied my global spell check method after packing the script strings in one file and it also counts as a game I actually finished in 2023, yaaaay!
 <a href="https://twitter.com/shubibiman/status/1719240138469810596">Shubibiman</a> also did
 <a href="https://www.romhacking.net/translations/7089/">a French localization</a> for its fans.
-<img src="https://emoji.tapatalk-cdn.com/emoji316.png"><img src="https://emoji.tapatalk-cdn.com/emoji317.png">
+<img src="https://emoji.tapatalk-cdn.com/emoji316.png"><img src="https://emoji.tapatalk-cdn.com/emoji317.png"><br/>
 Patch: <a href="https://github.com/dshadoff/PCE_xlate_DeadoftheBrain">github.com/dshadoff/DeadoftheBrain</a><br/>
 <a href="https://romhacking.net/translations/7087/">romhacking.net/translations/7087/</a><br/>
 <a href="https://x/NightWolve75/status/1719407856221311240">x.com/NightWolve/PCENews</a>
