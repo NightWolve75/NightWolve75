@@ -43,7 +43,24 @@ Patch: https://www.romhacking.net/translations/845/
 <img width="49%" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
 <img width="49%" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/><br/>
 
-7) Erst Kerf (2008)[Windows 2K/XP/V/7/10/11] 2025
+7) "Dead of the Brain" (1993)[PC Engine CD] <img src="https://emoji.tapatalk-cdn.com/emoji316.png" /> 2023
+
+No, NOT a trick, a Halloween treat! Presenting the
+<a href="https://romhacking.net/translations/7087/">Dead of the Brain 1 English patch</a> by David
+Shadoff for the DEAD last official PC Engine CD game published by NEC before exiting the console biz
+in 1999! I helped edit/betatest after Dave told me it was nearly ready, so I applied my global spell check method after packing the script strings in one file and it also counts as a game I actually finished in 2023, yaaaay!
+<a href="https://twitter.com/shubibiman/status/1719240138469810596">Shubibiman</a> also did
+<a href="https://www.romhacking.net/translations/7089/">a French localization</a> for its fans.
+<img src="https://emoji.tapatalk-cdn.com/emoji316.png"><img src="https://emoji.tapatalk-cdn.com/emoji317.png">
+
+<img width="49%" src="https://github.com/user-attachments/assets/bfcda46c-4fb4-44e4-b0df-31043f6ff475" /><img width="49%" src="https://github.com/user-attachments/assets/caddb3bd-83d6-407b-bf85-231cf1703146" />
+<br/><br/>
+
+https://github.com/dshadoff/PCE_xlate_DeadoftheBrain
+https://romhacking.net/translations/7087/
+https://twitter.com/NightWolve75/status/1719407856221311240
+
+8) Erst Kerf (2008)[Windows 2K/XP/V/7/10/11] 2025
 
 Similar to Hydlide the localizers here asked me for help on a final issue after the project was mostly finished to extend some strings. I found memory allocation bugs in the process which I also fixed and added a few minor tweaks like window-centering. Great experience to work with both of them, and they helped me with my Langrisser III localization project in kind on wave/audio recovery!<br/>
 Patch: https://github.com/Etokapa/Erst-Kerf-English-Translation-Patch
