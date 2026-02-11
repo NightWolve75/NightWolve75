@@ -42,7 +42,7 @@ I basically just cracked this game upon request by the translator, debugged it t
 <img width="49%" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
 <img width="49%" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/>
 Patch: https://www.romhacking.net/translations/845/
-<br/>
+<br/><br/>
 
 7) Dead of the Brain (1999)[PC Engine CD] 2023 <img src="https://github.com/user-attachments/assets/b7ae5c7a-6735-47a4-b83d-ef07cf03c9d2" width="23" height="23" /><br/>
 <br/>
@@ -57,7 +57,7 @@ Shubibiman also did
 Patch: <a href="https://github.com/dshadoff/PCE_xlate_DeadoftheBrain">github.com/dshadoff/DeadoftheBrain</a><br/>
 <a href="https://romhacking.net/translations/7087/">romhacking.net/translations/7087/</a><br/>
 <a href="https://x/NightWolve75/status/1719407856221311240">x.com/NightWolve/PCENews</a><br/>
-
+<br/>
 
 8) Erst Kerf (2008)[Windows 2K/XP/V/7/10/11] 2025<br/>
 <br/>
