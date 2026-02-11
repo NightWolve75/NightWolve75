@@ -2,13 +2,13 @@
 
 <div align="center"><h1>- Game Localization Portfolio -</h1></div>
 
-1) "Xak III: The Eternal Recurrence" (1994)[PC Engine CD] 2001-2004
+1) Xak III: The Eternal Recurrence (1994)[PC Engine CD] 2001-2004
 
 Localizers have to start somewhere! For me it was Xak III because it was the easiest candidate for the PC Engine CD platform: ANSI/8x16 font support was ready, the script wasn't compressed, and the text blocks were large enough such that by adjusting their 16-bit pointers you could fit full English translations! I wanted Falcom's Ys IV or Legend of Xanadu but didn't have enough experience for compression cases, so that's how Xak III and I found ourselves a match! ; )
 
 <img width="49%" src="https://github.com/user-attachments/assets/cdfaba98-57e2-4930-aa2c-c3365551cb59" /> <img width="49%" src="https://github.com/user-attachments/assets/47d6e179-90a6-443d-a30a-f535fd79c440" /><br/>
 
-2) "Ys IV: The Dawn of Ys" (1993)[PC Engine CD] 2002-2004/2012
+2) Ys IV: The Dawn of Ys (1993)[PC Engine CD] 2002-2004/2012
 
 This was my dream project and hard to believe it became a reality! In terms of shear number of fellow localizers [team members], it's THE biggest project I ever led/worked on counting programmers, translators, testers, and even fan voice-actors! Hard to believe it all started by winning a TurboGrafx-16 and then buying a $99 Turbo Duo that included the legendary Ys Book I & II!
 
@@ -43,7 +43,7 @@ Patch: https://www.romhacking.net/translations/845/
 <img width="49%" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
 <img width="49%" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/><br/>
 
-7) "Dead of the Brain" (1993)[PC Engine CD] <img src="https://emoji.tapatalk-cdn.com/emoji316.png" /> 2023
+7) Dead of the Brain (1993)[PC Engine CD] 2023 <img src="https://emoji.tapatalk-cdn.com/emoji316.png" />
 
 No, NOT a trick, a Halloween treat! Presenting the
 <a href="https://romhacking.net/translations/7087/">Dead of the Brain 1 English patch</a> by David
@@ -56,9 +56,9 @@ in 1999! I helped edit/betatest after Dave told me it was nearly ready, so I app
 <img width="49%" src="https://github.com/user-attachments/assets/bfcda46c-4fb4-44e4-b0df-31043f6ff475" /><img width="49%" src="https://github.com/user-attachments/assets/caddb3bd-83d6-407b-bf85-231cf1703146" />
 <br/><br/>
 
-https://github.com/dshadoff/PCE_xlate_DeadoftheBrain
-https://romhacking.net/translations/7087/
-https://twitter.com/NightWolve75/status/1719407856221311240
+<a href="https://romhacking.net/translations/7087/">romhacking.net/translations/7087/</a><br/>
+<a href="https://github.com/dshadoff/PCE_xlate_DeadoftheBrain">github.com/dshadoff/DeadoftheBrain</a><br/>
+<a href="https://x/NightWolve75/status/1719407856221311240">x.com/NightWolve/PCENews</a>
 
 8) Erst Kerf (2008)[Windows 2K/XP/V/7/10/11] 2025
 
