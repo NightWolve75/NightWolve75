@@ -40,8 +40,7 @@ WIP EDIT.
 I basically just cracked this game upon request by the translator, debugged it to disable the registration system and free it as the abandonware that it is so everyone can install/play it! I remember I rented the NES port as a kid and liked it, but I never gave this PC one a try. It was merely a favor for a fellow localizer/collaborator.<br/>
 
 <img width="49%" src="https://github.com/user-attachments/assets/0472ffb1-666e-4e4e-8dd0-796d4ca61f00" />
-<img width="49%" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" />
-
+<img width="49%" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/>
 Patch: https://www.romhacking.net/translations/845/
 
 7) Dead of the Brain (1993)[PC Engine CD] 2023 <img src="https://emoji.tapatalk-cdn.com/emoji316.png" />
@@ -54,8 +53,7 @@ in 1999! I helped edit/betatest after Dave told me it was nearly ready, so I app
 <a href="https://www.romhacking.net/translations/7089/">a French localization</a> for its fans.
 <img src="https://emoji.tapatalk-cdn.com/emoji316.png"><img src="https://emoji.tapatalk-cdn.com/emoji317.png"><br/>
 
-<img width="49%" src="https://github.com/user-attachments/assets/bfcda46c-4fb4-44e4-b0df-31043f6ff475" /><img width="49%" src="https://github.com/user-attachments/assets/caddb3bd-83d6-407b-bf85-231cf1703146" />
-
+<img width="49%" src="https://github.com/user-attachments/assets/bfcda46c-4fb4-44e4-b0df-31043f6ff475" /><img width="49%" src="https://github.com/user-attachments/assets/caddb3bd-83d6-407b-bf85-231cf1703146" /><br/>
 Patch: <a href="https://github.com/dshadoff/PCE_xlate_DeadoftheBrain">github.com/dshadoff/DeadoftheBrain</a><br/>
 <a href="https://romhacking.net/translations/7087/">romhacking.net/translations/7087/</a><br/>
 <a href="https://x/NightWolve75/status/1719407856221311240">x.com/NightWolve/PCENews</a>
@@ -65,6 +63,5 @@ Patch: <a href="https://github.com/dshadoff/PCE_xlate_DeadoftheBrain">github.com
 Similar to Hydlide the localizers here asked me for help on a final issue after the project was mostly finished to extend some strings. I found memory allocation bugs in the process which I also fixed and added a few minor tweaks like window-centering. Great experience to work with both of them, and they helped me with my Langrisser III localization project in kind on wave/audio recovery!
 
 <img width="49%" src="https://github.com/user-attachments/assets/9567ae93-3dd8-45d8-b636-aad96af0dcd7" />
-<img width="49%" src="https://github.com/user-attachments/assets/9acb319c-6e03-439a-8657-fccd552c5a3f" />
-
+<img width="49%" src="https://github.com/user-attachments/assets/9acb319c-6e03-439a-8657-fccd552c5a3f" /><br/>
 Patch: https://github.com/Etokapa/Erst-Kerf-English-Translation-Patch
