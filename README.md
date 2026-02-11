@@ -43,6 +43,7 @@ I basically just cracked this game upon request by the translator, debugged it t
 <img width="49%" src="https://github.com/user-attachments/assets/7f90ca70-adf8-41cc-bc60-f9e8b6486116" /><br/>
 Patch: https://www.romhacking.net/translations/845/
 <br/><br/>
+
 7) Dead of the Brain (1999)[PC Engine CD] 2023 <img src="https://github.com/user-attachments/assets/b7ae5c7a-6735-47a4-b83d-ef07cf03c9d2" width="23" height="23" /><br/>
 <br/>
 No, NOT a trick, a Halloween treat! Presenting the
@@ -57,6 +58,7 @@ Patch: <a href="https://github.com/dshadoff/PCE_xlate_DeadoftheBrain">github.com
 <a href="https://romhacking.net/translations/7087/">romhacking.net/translations/7087/</a><br/>
 <a href="https://x/NightWolve75/status/1719407856221311240">x.com/NightWolve/PCENews</a><br/>
 <br/>
+
 8) Erst Kerf (2008)[Windows 2K/XP/V/7/10/11] 2025<br/>
 <br/>
 Similar to Hydlide the localizers here asked me for help on a final issue after the project was mostly finished to extend some strings. I found memory allocation bugs in the process which I also fixed and added a few minor tweaks like window-centering. Great experience to work with both of them, and they helped me with my Langrisser III localization project in kind on wave/audio recovery!
