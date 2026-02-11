@@ -49,8 +49,7 @@ No, NOT a trick, a Halloween treat! Presenting the
 <a href="https://romhacking.net/translations/7087/">Dead of the Brain English patch</a> by David Shadoff for the DEAD last official PC Engine CD game published by NEC before exiting the console biz
 in 1999! I helped edit/betatest after Dave told me it was nearly ready, so I applied my global spell check method after packing the script strings into one file (a trick I learned since Ys VI) and it also counts as a game I actually finished in 2023, yaaaay!
 Shubibiman also did
-<a href="https://www.romhacking.net/translations/7089/">a French localization</a> for its fans.
-<img src="https://github.com/user-attachments/assets/b7ae5c7a-6735-47a4-b83d-ef07cf03c9d2" width="23" height="23" /><img src="https://github.com/user-attachments/assets/9c49ba0e-8206-461b-ba1a-5c0f367d2daf" width="23" height="23" /><br/>
+<a href="https://www.romhacking.net/translations/7089/">a French localization</a> for its fans. <img src="https://github.com/user-attachments/assets/9c49ba0e-8206-461b-ba1a-5c0f367d2daf" width="23" height="23" /><br/>
 <br/>
 <img width="49%" src="https://github.com/user-attachments/assets/bfcda46c-4fb4-44e4-b0df-31043f6ff475" />
 <img width="49%" src="https://github.com/user-attachments/assets/caddb3bd-83d6-407b-bf85-231cf1703146" /><br/>
