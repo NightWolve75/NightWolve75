@@ -65,5 +65,5 @@ Similar to Hydlide the localizers here asked me for help on a final issue after 
 
 <img width="49%" src="https://github.com/user-attachments/assets/9567ae93-3dd8-45d8-b636-aad96af0dcd7" />
 <img width="49%" src="https://github.com/user-attachments/assets/9acb319c-6e03-439a-8657-fccd552c5a3f" /><br/>
-Patch: https://github.com/Etokapa/Erst-Kerf-English-Translation-Patch
-<a href="https://x.com/NightWolve75/status/1964886839959134351">x.com/NightWolve/GameNews</a>
+Patch: https://github.com/Etokapa/Erst-Kerf-English-Translation-Patch <br/>
+<a href="https://x.com/NightWolve75/status/1964886839959134351">x.com/NightWolve/GameNews</a><br/>
