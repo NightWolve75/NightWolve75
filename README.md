@@ -56,7 +56,7 @@ Shubibiman also did
 <img width="49%" src="https://github.com/user-attachments/assets/caddb3bd-83d6-407b-bf85-231cf1703146" /><br/>
 Patch: <a href="https://github.com/dshadoff/PCE_xlate_DeadoftheBrain">github.com/dshadoff/DeadoftheBrain</a><br/>
 <a href="https://romhacking.net/translations/7087/">romhacking.net/translations/7087/</a><br/>
-<a href="https://x/NightWolve75/status/1719407856221311240">x.com/NightWolve/PCENews</a><br/>
+<a href="https://x.com/NightWolve75/status/1719407856221311240">x.com/NightWolve/PCENews</a><br/>
 <br/>
 
 8) Erst Kerf (2008)[Windows 2K/XP/V/7/10/11] 2025
@@ -66,3 +66,4 @@ Similar to Hydlide the localizers here asked me for help on a final issue after 
 <img width="49%" src="https://github.com/user-attachments/assets/9567ae93-3dd8-45d8-b636-aad96af0dcd7" />
 <img width="49%" src="https://github.com/user-attachments/assets/9acb319c-6e03-439a-8657-fccd552c5a3f" /><br/>
 Patch: https://github.com/Etokapa/Erst-Kerf-English-Translation-Patch
+<a href="https://x.com/NightWolve75/status/1964886839959134351">x.com/NightWolve/GameNews</a>
